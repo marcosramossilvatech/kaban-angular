@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-85647": {
+      "hosting": {
+        "kanban": [
+          "kanban-85647"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanban-85647"
+  }
+}

@@ -1,0 +1,13 @@
+:host {
+  display: block;
+}
+
+.item {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.margin-10 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
